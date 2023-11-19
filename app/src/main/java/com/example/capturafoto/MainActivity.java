@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast.makeText(this, getString(R.string.Respuesta), Toast.LENGTH_SHORT).show();
                 db.close();
-
+                imageView.setImageBitmap(null);
                 txtDescripcion.setText("");
 
 

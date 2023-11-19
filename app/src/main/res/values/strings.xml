@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CapturaFoto</string>
+    <string name="Respuesta">Fotografia guardada exitosamente</string>
+    <string name="ErrorResp">Error al guardar la foto</string>
+</resources>
